@@ -13,7 +13,7 @@
 }
 #nav{
 
-    height: 4%;
+    height: 5%;
     background: #6e6c6c;
     padding-top: 1%;
     border-style: solid ;
@@ -157,7 +157,25 @@
 .buttons{
     width: 3,5%;
     height:40%;
-    background: red;
+    margin-left: 10%;
+    background: blue;
     
 }
-.button
+/*.avatar  {
+        width:300px;
+        height:300px;
+        border-radius:150px;
+    }
+     cambia estos dos valores para definir el tamaño de tu círculo *
+    height: 50%;
+    width: 50%;
+     los siguientes valores son independientes del tamaño del círculo 
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    style="width:5%; margin-bottom: 5%;"
+    <div class="avatar">
+                <img src="./img/perfil2.jpg" alt="perfil2" style="background-image: url(...)">
+              </div>*/
+
